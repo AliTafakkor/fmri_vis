@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+
+name: fmri_vis
+dependencies:
+  - python=3.10
+  - nibabel
+  - nilearn
+  - jupyter
+  - pip
+  - matplotlib
